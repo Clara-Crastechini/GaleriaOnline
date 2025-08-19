@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "AiQF5ECF9Cj7UpB5ixvXao1WRMuDWJhWDcazbICmxRc=",
+  "Hash": "U19P5fVhaP+EwePX9qDxkL7jKCgVYlnVZIKDHbMJgWI=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "GaleriaOnline.WebApi\\wwwroot",
+      "Source": "GaleriaOnline.WebApi",
+      "ContentRoot": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "34g72e1qrh",
+      "Integrity": "UxdOzVgPLIdJcuOiP2NWQIM8FNw69+tvYExI9oePf+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140.34g72e1qrh.png",
+      "AssetFile": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxdOzVgPLIdJcuOiP2NWQIM8FNw69+tvYExI9oePf+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 18:53:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "34g72e1qrh"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxdOzVgPLIdJcuOiP2NWQIM8FNw69+tvYExI9oePf+w="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png",
+      "AssetFile": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UxdOzVgPLIdJcuOiP2NWQIM8FNw69+tvYExI9oePf+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 18:53:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UxdOzVgPLIdJcuOiP2NWQIM8FNw69+tvYExI9oePf+w="
+        }
+      ]
+    }
+  ]
 }

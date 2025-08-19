@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140.34g72e1qrh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"34g72e1qrh"},{"Name":"integrity","Value":"sha256-UxdOzVgPLIdJcuOiP2NWQIM8FNw69\u002BtvYExI9oePf\u002Bw="},{"Name":"label","Value":"_content/GaleriaOnline.WebApi/imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10677"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UxdOzVgPLIdJcuOiP2NWQIM8FNw69\u002BtvYExI9oePf\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Aug 2025 18:53:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GaleriaOnline.WebApi/imagens/f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\f67ebe85-7ba6-4bcd-bdb9-ea746013c140.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UxdOzVgPLIdJcuOiP2NWQIM8FNw69\u002BtvYExI9oePf\u002Bw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10677"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022UxdOzVgPLIdJcuOiP2NWQIM8FNw69\u002BtvYExI9oePf\u002Bw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Aug 2025 18:53:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
