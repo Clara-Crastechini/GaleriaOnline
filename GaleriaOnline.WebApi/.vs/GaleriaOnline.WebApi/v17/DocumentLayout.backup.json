@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{687C9D82-B4DB-49E0-A76D-4D6B6F23BA3C}|GaleriaOnline.WebApi.csproj|c:\\users\\55214382898\\desktop\\galeriaonline\\galeriaonline.webapi\\repositories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687C9D82-B4DB-49E0-A76D-4D6B6F23BA3C}|GaleriaOnline.WebApi.csproj|solutionrelative:repositories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{687C9D82-B4DB-49E0-A76D-4D6B6F23BA3C}|GaleriaOnline.WebApi.csproj|c:\\users\\55214382898\\desktop\\galeriaonline\\galeriaonline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{687C9D82-B4DB-49E0-A76D-4D6B6F23BA3C}|GaleriaOnline.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -37,12 +41,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ImagemRepository.cs",
+              "ToolTip": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs*",
+              "RelativeToolTip": "Repositories\\ImagemRepository.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:56:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\55214382898\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T16:09:29.225Z",
               "EditorCaption": ""
