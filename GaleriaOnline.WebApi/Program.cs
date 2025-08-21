@@ -33,11 +33,15 @@ if (app.Environment.IsDevelopment())
 }
 
 
+
+
+// A sequencia importa muito, cuidado
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 
 app.UseCors("CorsPolicy");
 
-app.UseStaticFiles();
 
 app.UseAuthorization();
 
