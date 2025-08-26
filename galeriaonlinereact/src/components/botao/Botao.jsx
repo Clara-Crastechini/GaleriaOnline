@@ -1,9 +1,9 @@
 import React from 'react'
 import "./BOtao.css"
 
-const Botao = ({nomeBotao}) => {
+const Botao = ({nomeBotao , funcBotao}) => {
   return (
-   <button className='botao' onClick="" type='submit'>
+   <button className='botao' onClick={funcBotao} type='submit'>
     {nomeBotao}
    </button>
   )

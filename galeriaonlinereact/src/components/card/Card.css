@@ -16,7 +16,9 @@
     gap: 20px;
 }
 
-.imaDoCard{
+.imgDoCard{
     width: 200px;
     height: 200px;
+
+    object-fit: cover;
 }
